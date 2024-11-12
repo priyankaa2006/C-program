@@ -17,8 +17,7 @@ int main() {
  if (source_choice == 1) {
  printf("Enter the number of elements: ");
  scanf("%d", &n);
-EX .NO.2
-Date: MERGE SORT
+
  generate_random_array(a, n);
  } else if (source_choice == 2) {
  read_array_from_file(a, &n);
